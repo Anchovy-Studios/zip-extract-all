@@ -2,8 +2,9 @@
 	"name": "zip-extract-all",
 	"displayName": "zip-extract-all",
 	"description": "Extract all zip files inside a folder",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"publisher": "AnchovyStudios",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Anchovy-Studios/zip-extract-all.git"
@@ -55,6 +56,6 @@
 		"vscode-test": "^1.3.0"
 	},
 	"dependencies": {
-		"@anchovy_studios/extract-all-zip": "^1.2.0"
+		"@anchovy_studios/extract-all-zip": "^2.0.0"
 	}
 }
